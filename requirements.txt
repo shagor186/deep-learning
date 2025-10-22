@@ -1,0 +1,32 @@
+# ========== Core Web Framework ==========
+Flask
+Werkzeug
+Jinja2
+itsdangerous
+click
+
+# ========== Machine Learning / Deep Learning ==========
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# ========== Computer Vision ==========
+opencv-python
+Pillow
+
+# ========== Utilities ==========
+tqdm
+h5py
+protobuf
+packaging
+
+# ========== Optional for Image Processing / Conversion ==========
+imageio
+scipy
+
+# ========== For Deployment / API (optional but useful) ==========
+gunicorn
+requests
